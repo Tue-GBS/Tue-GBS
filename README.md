@@ -22,7 +22,7 @@
       <img width="25" src="linkedin.png">
     </a>
     <a href = "https://twitter.com/Tue_Dev">
-        <img width="25" src="twitterx.png">
+        <img width="25" src="twitterxx.pngx.png">
     </a>
     <a href = "https://www.instagram.com/tue_gbs/">
       <img width="25" src="instagram.png">
