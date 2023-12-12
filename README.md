@@ -8,7 +8,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 
 <div>
   
-  <img height="165rem" src="https://github-readme-stats.vercel.app/api?username=Tue-GBS&theme=rose_pine_icons=true"/>
+  <img align="center" height="190rem" src="https://github-readme-stats.vercel.app/api?username=Tue-GBS&theme=rose_pine_icons=true"/>
   <a href="https://github.com/Tue-GBS/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tue-GBS&layout=compact&theme=rose_pine_border=true" /></a>
 
 </div>
