@@ -1,15 +1,21 @@
-## Olá, sou Mateus estudante em programação!🧑‍💻
+## Olá, mundo! Meu nome é <strong>Mateus</strong>!!🧑‍💻
+
+
+Tenho 18 anos e sou um <strong>Programador em treinamento</strong>.
+
+Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
+
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Tue-GBS&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tue-GBS&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="145rem" src="https://camo.githubusercontent.com/f935f303c17985d5d17231ad4aa75f95d12cebfdb5658ea7ba4d492175db4e9b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d726f73655f70696e65"/>
+  <img align="right" height="180em" src="https://camo.githubusercontent.com/d8bfbf14fa0ca158e334ed2bc3fe786a09da34058697a7a3b0f14a0f59fed424/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d726f73655f70696e65"/>
 </div>
 <br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <h1 align="center">Melhores Tecnologias <3</h1>
+    <h1 align="center">Línguagens:</h1>
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="c.png">
