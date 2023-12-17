@@ -1,10 +1,8 @@
-## Olá, mundo! Meu nome é <strong>Mateus</strong>!!🧑‍💻
+## <span style="font-size: 1.5em;">Olá, mundo! Meu nome é <strong>Mateus</strong>!! <img align="center" width="50" src="img/programacao.png"></span>
 
+<span style="font-size: 1.3em;">Tenho 18 anos e sou um <strong>Programador em treinamento</strong>.</span>
 
-Tenho 18 anos e sou um <strong>Programador em treinamento</strong>.
-
-Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
-
+<span style="font-size: 1.2em;">Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.</span>
 
 <div>
   
@@ -13,27 +11,25 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 
 </div>
 
-
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <h1 align="center">Línguagens:</h1>
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="c.png">
-    <img align="center" height="30" width="40" alt="html-icon" src="java.png"> 
-    <img align="center" height="30" width="40" alt="html-icon" src="python.png"> 
+    <img align="center" width="50" alt="Html/css" src="img/codificacao.png">
+    <img align="center" width="50" alt="C#" src="img/do-sustenido.png">
+    <img align="center" width="50" alt="Java" src="img/java.png"> 
+    <img align="center" width="50" alt="Python" src="img/arquivo.png"> 
    </div>
     <br>
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "https://www.linkedin.com/in/mateus-gon%C3%A7alves61/">
-      <img width="25" src="linkedin.png">
+      <img width="35" src="img/linkedin.png">
     </a>
     <a href = "https://twitter.com/Tue_Dev">
-        <img width="25" src="twitterxx.png">
+        <img width="35" src="img/twitter.png">
     </a>
     <a href = "https://www.instagram.com/tue_gbs/">
-      <img width="25" src="instagram.png">
+      <img width="35" src="img/instagram.png">
     </a>
 </div>
   
