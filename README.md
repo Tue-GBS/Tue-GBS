@@ -1,8 +1,8 @@
 ## <span style="font-size: 1.5em;">Olá, mundo! Meu nome é <strong>Mateus</strong>!! <img align="center" width="50" src="img/programacao.png"></span>
 
-<span style="font-size: 1.3em;">Tenho 18 anos e sou um <strong>Programador em treinamento</strong>.</span>
+<span style="font-size: 1.6em;">Tenho 18 anos e sou um <strong>Programador em treinamento</strong>.</span>
 
-<span style="font-size: 1.2em;">Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.</span>
+<span style="font-size: 1.4em;">Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.</span>
 
 <div>
   
