@@ -14,6 +14,6 @@
 
 ## Sobre mim
 
-Olá! Sou o Mateus Gonçalves, apaixonado por TI e com experiência em infraestrutura, redes e suporte. Trabalhando como Auxiliar de TI no 11º Depósito de Suprimento, lidando com hardware, sistemas e gestão de servidores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Meus projetos e contatos estão aqui!
+Olá! Sou o Mateus Gonçalves, apaixonado por TI e com experiência em infraestrutura, redes e suporte. Trabalhando como Auxiliar de TI no Centro de desenvolvimento de sistemas(CDS), lidando com hardware, sistemas e gestão de servidores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Meus projetos e contatos estão aqui!
 
 ---
