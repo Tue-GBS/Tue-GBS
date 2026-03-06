@@ -53,8 +53,8 @@ Unindo disciplina militar com tecnologia, aplico organização, responsabilidade
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tue-GBS&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tue-GBS&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tue-GBS&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tue-GBS&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
