@@ -10,30 +10,12 @@
 
 ## 🚀 Sobre Mim
 
-Sou apaixonado por Tecnologia da Informação, com experiência prática em **infraestrutura, redes e suporte técnico**.
-
 Atualmente atuo no **Centro de Desenvolvimento de Sistemas (CDS)**, lidando com:
 
 - 🖥️ Manutenção e diagnóstico de hardware  
 - 🌐 Infraestrutura de redes  
 - 🗄️ Administração e suporte a servidores  
 - 🛠️ Sistemas operacionais e suporte técnico  
-
-Unindo disciplina militar com tecnologia, aplico organização, responsabilidade e foco em resultados no ambiente técnico.
-
----
-
-## 🧠 Especialidades
-
-<p>
-🔥 Infraestrutura & Redes <br>
-🛡️ Administração de Servidores <br>
-⚙️ Automação de Processos <br>
-🐧 Linux & Ambientes Corporativos <br>
-💻 Desenvolvimento Web
-</p>
-
----
 
 ## 🛠️ Stack & Ferramentas
 
@@ -55,24 +37,4 @@ Unindo disciplina militar com tecnologia, aplico organização, responsabilidade
 <p align="center">
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tue-GBS&show_icons=true&theme=tokyonight"/>
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tue-GBS&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 📫 Contato
-
-<p align="center">
-<a href="mailto:mateusdasilva72@outlook.com">
-<img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mateus-gon%C3%A7alves61/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
-
----
-
-<p align="center">
-⚔️ Disciplina | 💡 Tecnologia | 📈 Evolução Contínua
 </p>
